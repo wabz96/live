@@ -1,5 +1,5 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xm,https://ghp.ci/https://github.com/Meroser/EPG-test/blob/main/tvxml-Meroser.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #总台高清
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xm" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-name="CCTV1" tvg-id="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道", CCTV1 综合
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010144/
 #EXTINF:-1 tvg-name="CCTV2" tvg-id="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道", CCTV2 财经
