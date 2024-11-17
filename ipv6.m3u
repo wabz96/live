@@ -492,7 +492,7 @@ http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv2.m3
 http://www.zz49.top:4022/udp/239.77.0.196:5146
 #EXTINF:-1 tvg-name="江门综合" tvg-id="江门综合" tvg-logo="https://live.fanmingming.com/tv/江门综合.png" group-title="广东频道", 江门综合
 https://stream1.freetv.fun/jiang-men-zong-he-1.ctv
-#EXTINF:-1 tvg-name="河源公共" tvg-id="河源公共" tvg-logo="" group-title="地方频道", 河源公共
+#EXTINF:-1 tvg-name="河源公共" tvg-id="河源公共" tvg-logo="" group-title="广东频道", 河源公共
 http://120.234.49.38:7000/udp/239.21.0.49:3536
 #EXTINF:-1 tvg-name="河源综合" tvg-id="河源综合" tvg-logo="" group-title="广东频道", 河源综合
 http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8?zguangd
@@ -844,23 +844,23 @@ http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000060630/index.m3u
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="I08" tvg-name="iHot-爱科学" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/ihot/ihot-爱科学.png" group-title="ihot频道",iHot-爱科学
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="I09" tvg-name="iHot-爱浪漫" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/ihot/ihot-爱浪漫.png" group-title="地方特色",iHot-爱浪漫
+#EXTINF:-1 tvg-id="I09" tvg-name="iHot-爱浪漫" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/ihot/ihot-爱浪漫.png" group-title="ihot频道",iHot-爱浪漫
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000040630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="I10" tvg-name="iHot-爱历史" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/ihot/ihot-爱历史.png" group-title="地方特色",iHot-爱历史
+#EXTINF:-1 tvg-id="I10" tvg-name="iHot-爱历史" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/ihot/ihot-爱历史.png" group-title="ihot频道",iHot-爱历史
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000150630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="I11" tvg-name="iHot-爱旅行" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/ihot/ihot-爱旅行.png" group-title="地方特色",iHot-爱旅行
+#EXTINF:-1 tvg-id="I11" tvg-name="iHot-爱旅行" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/ihot/ihot-爱旅行.png" group-title="ihot频道",iHot-爱旅行
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="I12" tvg-name="iHot-爱青春" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/ihot/ihot-爱青春.png" group-title="地方特色",iHot-爱青春
+#EXTINF:-1 tvg-id="I12" tvg-name="iHot-爱青春" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/ihot/ihot-爱青春.png" group-title="ihot频道",iHot-爱青春
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000100630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000100630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="I13" tvg-name="iHot-爱赛车" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/ihot/ihot-爱赛车.png" group-title="地方特色",iHot-爱赛车
+#EXTINF:-1 tvg-id="I13" tvg-name="iHot-爱赛车" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/ihot/ihot-爱赛车.png" group-title="ihot频道",iHot-爱赛车
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000240630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="I14" tvg-name="iHot-爱体育" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/ihot/ihot-爱体育.png" group-title="地方特色",iHot-爱体育
+#EXTINF:-1 tvg-id="I14" tvg-name="iHot-爱体育" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/ihot/ihot-爱体育.png" group-title="ihot频道",iHot-爱体育
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="I15" tvg-name="iHot-爱玩具" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/ihot/ihot-爱玩具.png" group-title="地方特色",iHot-爱玩具
+#EXTINF:-1 tvg-id="I15" tvg-name="iHot-爱玩具" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/ihot/ihot-爱玩具.png" group-title="ihot频道",iHot-爱玩具
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="I16" tvg-name="iHot-爱悬疑" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/ihot/ihot-爱悬疑.png" group-title="地方特色",iHot-爱悬疑
+#EXTINF:-1 tvg-id="I16" tvg-name="iHot-爱悬疑" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/ihot/ihot-爱悬疑.png" group-title="ihot频道",iHot-爱悬疑
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000050630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="I17" tvg-name="iHot-爱幼教" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/ihot/ihot-爱幼教.png" group-title="地方特色",iHot-爱幼教
+#EXTINF:-1 tvg-id="I17" tvg-name="iHot-爱幼教" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/ihot/ihot-爱幼教.png" group-title="ihot频道",iHot-爱幼教
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="I18" tvg-name="iHot-爱院线" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/ihot/ihot-爱院线.png" group-title="地方特色",iHot-爱院线
+#EXTINF:-1 tvg-id="I18" tvg-name="iHot-爱院线" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/ihot/ihot-爱院线.png" group-title="ihot频道",iHot-爱院线
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
