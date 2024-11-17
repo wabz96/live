@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xm,https://ghp.ci/https://github.com/Meroser/EPG-test/blob/main/tvxml-Meroser.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #总台高清
 #EXTINF:-1 tvg-name="CCTV1" tvg-id="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道", CCTV1 综合
-http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010144/
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000023313/1.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-id="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道", CCTV2 财经
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000023315/1.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺
@@ -374,14 +374,14 @@ http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000004/index.m3u8?
 
 
 #北京/10个频道
-#EXTINF:-1 tvg-id="BJ01" tvg-name="北京新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing1.png" group-title="地方特色",北京新闻
-#EXTINF:-1 tvg-id="BJ02" tvg-name="北京影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing4.png" group-title="地方特色",北京影视
-#EXTINF:-1 tvg-id="BJ03" tvg-name="北京文艺" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing3.png" group-title="地方特色",北京文艺
-#EXTINF:-1 tvg-id="BJ04" tvg-name="北京生活" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing7.png" group-title="地方特色",北京生活
-#EXTINF:-1 tvg-id="BJ05" tvg-name="北京科教" tvg-logo="https://upload.112114.xyz/logo/%E5%8C%97%E4%BA%AC%E5%9B%BD%E9%99%85.png" group-title="地方特色",北京科教
-#EXTINF:-1 tvg-id="BJ06" tvg-name="北京少儿" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing8.png" group-title="地方特色",北京少儿
-#EXTINF:-1 tvg-id="BJ07" tvg-name="北京财经" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing2.png" group-title="地方特色",北京财经
-#EXTINF:-1,tvg-id="BJ09" tvg-name="BTV体育休闲" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/北京体育休闲.png" group-title="地方特色",北京体育休闲
+#EXTINF:-1 tvg-id="BJ01" tvg-name="北京新闻" tvg-logo="https://ghp.ci/raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing1.png" group-title="北京频道",北京新闻
+#EXTINF:-1 tvg-id="BJ02" tvg-name="北京影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing4.png" group-title="北京频道",北京影视
+#EXTINF:-1 tvg-id="BJ03" tvg-name="北京文艺" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing3.png" group-title="北京频道",北京文艺
+#EXTINF:-1 tvg-id="BJ04" tvg-name="北京生活" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing7.png" group-title="北京频道",北京生活
+#EXTINF:-1 tvg-id="BJ05" tvg-name="北京科教" tvg-logo="https://upload.112114.xyz/logo/%E5%8C%97%E4%BA%AC%E5%9B%BD%E9%99%85.png" group-title="北京频道",北京科教
+#EXTINF:-1 tvg-id="BJ06" tvg-name="北京少儿" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing8.png" group-title="北京频道",北京少儿
+#EXTINF:-1 tvg-id="BJ07" tvg-name="北京财经" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing2.png" group-title="北京频道",北京财经
+#EXTINF:-1,tvg-id="BJ09" tvg-name="BTV体育休闲" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/北京体育休闲.png" group-title="北京频道",北京体育休闲
 
 
 #江苏/50个频道
